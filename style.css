@@ -1,0 +1,240 @@
+/*body {
+    display: block;
+    margin: 8px;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px  185px;
+}
+.left-side {
+    width: 60%;
+}
+.wrapper {
+    width: 750px;
+    border: 1px solid;
+    height: 490px;
+    border-color: silver;
+    border-radius: 14px;
+}
+.google {
+    display: flex;
+    font-size: 25px;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    margin: 20px 22px;
+}
+.paragraph {
+    font-size: 25px;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    margin-left: 15px;
+    margin-bottom: -6px;
+}
+.rows {
+    font-size: 25px;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    margin-left: 15px;
+    margin-bottom: -6px;
+}
+.first-name {
+    margin: 20px;
+    font-size: 18px;
+    display: block;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid red;
+}
+.last-name {
+    margin: 20px;
+    font-size: 18px;
+    display: block;
+    border-radius: 5px;
+    height: 30px;
+    border: 1px solid red;
+}
+.email {
+    margin-left: 20px;
+    font-size: 18px;
+    border: 1px solid silver;
+    width: 53%;
+    border-radius: 5px;
+}
+.about-email {
+    margin-left: 20px;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    font-size: 14px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.confirm-pass {
+    display: flex;
+    margin-left: 20px;
+    border: 1px solid red;
+    border-radius: 5px;
+    height: 30px;
+}
+.confirm {
+    margin-left: 20px;
+    border: 1px solid red;
+    border-radius: 5px;
+    height: 30px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 fontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    color: gray;
+}
+.characters {
+    color: rgb(31, 26, 26);
+    font-size: 14px;
+    margin-left: 20px;
+    padding-right: 355px;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+}
+.sign-in {
+    display: flex;
+}
+.instead {
+    color: #4285f4;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 11px;
+}
+.button {
+    background-color: #4285f4;
+    color: white;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    border-radius: 2px;
+    border: none;
+    margin-left: 220px;
+    padding: 10px 23px;
+}
+.right-side {
+    width: 40px;
+    height: 300px;
+    margin-top: 90px;
+    margin-left: 30px;
+}
+.account-work {
+    margin: -20px;
+    margin-left: 15px;
+}
+.all {
+    margin: 5px 55px;
+    color: gray;
+    font-family: sans-serif;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.footer {
+    display: flex;
+    margin-left: 175px;
+}
+.lang {
+    margin: 15px;
+}
+.lang span {
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    color: grey;
+    font-size: 14px;
+}
+.navbar {
+    margin-left: 375px;
+}
+ul {
+    display: flex;
+    color: grey;
+    justify-content: space-between;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.navbar ul li {
+    list-style: none;
+    font-family: "Noto Sans Myanmar UI", arial, sans-serif;
+    color: grey;
+    padding-left: 14px;
+    font-size: 14px;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+*/
+body {
+    margin: 10em;
+    padding: 0;
+}
+.google {
+    font-size: 5px;
+}
+
+
+h1,h2 {
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'manrope', sans-serif;
+}
+#imgdiv {
+    padding-top: 10em;
+    padding-left: 40px;
+}
+section {
+    padding: 40px;
+    display: inline-flex;
+    margin: 20px;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+}
+
+h5 {
+    color: blue;
+    font-family:sarif;
+}
+.instead {
+    color: blue;
+}
+.button {
+    margin-left: 25em;
+    background-color:#1a73e8;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 90px;
+    height: 40px;
+
+}
+.option {
+    margin-left: 1.5em;
+    border: none;
+}
+.lang {
+    display: inline-flex;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.help {
+    margin-left: 13em;
+    color: gray;
+}
+.privacy {
+    margin-left: 2em;
+    color: gray;
+}
+.terms {
+    margin-left: 2em;
+    color: gray;
+}
+p{
+    font-size: 12px;
+}
